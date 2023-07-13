@@ -1,6 +1,6 @@
-projectKey=Refactoring-Java
+projectKey=Proyecto-Refactorizado
 serverUrl=http://localhost:9000
 serverVersion=10.1.0.73491
-dashboardUrl=http://localhost:9000/dashboard?id=Refactoring-Java
-ceTaskId=AYlMqn-Kg43knqer0hpB
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlMqn-Kg43knqer0hpB
+dashboardUrl=http://localhost:9000/dashboard?id=Proyecto-Refactorizado
+ceTaskId=AYlO1mHyQeAocF8yJAQx
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlO1mHyQeAocF8yJAQx
